@@ -18,7 +18,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Siris2314.Siris2314)
 
-[<img src="https://<novatorem-siris2314.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/<223nchyksrryndu2rqy4fthuq?si=e0505688f35c4a9b>)
+
 <br >
 
 
