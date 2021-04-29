@@ -30,6 +30,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+[![Spotify](https://novatorem-peach-ten.vercel.app/api/spotify)](https://open.spotify.com/user/ArihantTripathi)
+
 #### Github Stats
 
 [![Siris2314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siris2314&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
