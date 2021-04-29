@@ -18,7 +18,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Siris2314.Siris2314)
 
-
+[![Spotify](https://siris2314.vercel.app/api/spotify)](https://open.spotify.com/user/ArihantTripathi)
 <br >
 
 
