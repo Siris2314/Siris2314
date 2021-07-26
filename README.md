@@ -24,7 +24,7 @@
    - Also on the side, a new NLP project involving Crypto and Stocks coming soon...
 
 
-### My Website: https://siris2314.github.io/arihanttripathi.github.io/
+### My Website: [Website](https://siris2314.github.io/arihanttripathi.github.io/)
 
 #### Profile Visits 
 
