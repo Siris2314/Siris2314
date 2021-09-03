@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Arihant-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-tripathi-2374b7191//)[![Mail Badge](https://img.shields.io/badge/-ArihantT-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tarihant2001@gmail.com)
 
 
-#### Most Used Languages
+#### Most Used Languages/Technologies
+
 
 [![Java Badge](https://img.shields.io/badge/-Java-ffa500?style=for-the-badge&labelColor=red&logo=Java&logoColor=ffa500)](#) [![Python Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&labelColor=blue&logo=python&logoColor=F0DB4F)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
