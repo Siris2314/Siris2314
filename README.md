@@ -22,7 +22,7 @@
    - Working on learning GoLang and C
    - Still working on NecroAtomicBot and implementing newer more efficient features
    - Working on the webiste for NecroAtomicBot to allow for bot settings and authentication into servers
-   - Also on the side, a new NLP project involving Crypto and Stocks coming soon...10/1/21
+   - Also on the side, a new NLP project involving Crypto and Stocks coming soon...10/8/21
 
 
 ### [Personal Website](https://siris2314.github.io/arihanttripathi.github.io/)
