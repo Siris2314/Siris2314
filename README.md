@@ -19,7 +19,7 @@
 
 ### Currently Learning/Projects Working On 
 
-   - Working on learning GoLang and C
+   - Working on learning GoLang and C, currently building a C compiler
    - Still working on NecroAtomicBot and implementing newer more efficient features
    - Working on the webiste for NecroAtomicBot to allow for bot settings and authentication into servers
    - Also on the side, a new NLP project involving Crypto and Stocks coming soon.......finally out: https://github.com/Siris2314/NecroFinance
