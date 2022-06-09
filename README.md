@@ -40,11 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript     4 hrs 34 mins   ███████████████░░░░░░░░░░   60.05 %
-TeX            2 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   29.58 %
-Python         46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   3 hrs 59 mins   ███████████████████████░░   91.36 %
+Python       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
 ```
 
 <!--END_SECTION:waka-->
