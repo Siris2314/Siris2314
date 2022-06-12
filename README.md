@@ -40,7 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 43 mins   █████████████████████████   99.99 %
+JavaScript   6 hrs 12 mins   █████████████████████████   99.95 %
+TeX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
