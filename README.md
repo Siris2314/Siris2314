@@ -40,10 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 12 mins   ██████████████▒░░░░░░░░░░   56.82 %
-Python       2 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   36.47 %
-Git Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Python       13 hrs 12 mins  ████████████████████▓░░░░   82.58 %
+JavaScript   2 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
