@@ -40,7 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 22 mins   █████████████████████████   100.00 %
+JavaScript   3 hrs 57 mins   ████████████████████████▒   97.39 %
+C++          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
