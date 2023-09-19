@@ -19,11 +19,9 @@
 
 ### Currently Learning/Projects Working On 
 
-   - Working on learning GoLang and C, currently building a C compiler
+   - Released a new Python Project on better YT Summarization using Llama2 and OpenAIWhisper
    - Working on a Python Package to streamline DCGANs and Diffusion models
    - Released a new C++ Machine Learning Library, out here: https://github.com/Siris2314/MLPP
-   - Still working on NecroAtomicBot and implementing newer more efficient features
-
 
 ### [Personal Website](https://siris2314.github.io/arihanttripathi.github.io/)
 
