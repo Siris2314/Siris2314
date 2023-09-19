@@ -27,7 +27,7 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Siris2314.Siris2314)
+![Visitors](https://komarev.com/ghpvc/?username=Siris2314)
 
 
 <br >
