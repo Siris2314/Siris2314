@@ -38,9 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 14 mins   ███████████████████████▓░   95.21 %
-Ezhil        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       5 hrs 51 mins   ███████████████████████▓░   94.91 %
+Ezhil        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
