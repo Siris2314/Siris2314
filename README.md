@@ -23,7 +23,7 @@
    - Working on a Python Package to streamline DCGANs and Diffusion models
    - Released a new C++ Machine Learning Library, out here: https://github.com/Siris2314/MLPP
 
-### [Personal Website](https://siris2314.github.io/arihanttripathi.github.io/)
+### [Personal Website](https://arihanttripathi.netlify.app/)
 
 #### Profile Visits 
 
