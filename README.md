@@ -12,7 +12,7 @@
 
 ### About Me
 
-  - My name is Arihant Tripathi, I am currently a student at Rutgers University
+  - My name is Arihant Tripathi, I am currently a Masters of Science in Engineering Student at UPenn
   - I am developer and Machine Learning Enthusiast
   - I love to work on Open Source projects 
 
