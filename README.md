@@ -43,6 +43,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b6aa7f46-9c74-4486-9eda-0bf60faa118c/deploy-status)](https://app.netlify.com/sites/arihanttripathi/deploys)
 
 #### Github Stats
 
