@@ -52,7 +52,7 @@ No activity tracked
 
 
 #### Currently Listening
-[![Spotify](https://novatorem-peach-ten.vercel.app/api/spotify)](https://open.spotify.com/user/ArihantTripathi)
+[![Spotify](https://novatorem-orpin-zeta.vercel.app/api/orchestrator)](https://open.spotify.com/user/ArihantTripathi)
 
 
 </details>
