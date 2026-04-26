@@ -52,7 +52,7 @@ No activity tracked
 
 
 #### Currently Listening
-[![Spotify](https://novatorem-orpin-zeta.vercel.app/api/orchestrator)](https://www.last.fm/user/Zamasu67)
+<img src="https://novatorem-orpin-zeta.vercel.app/api/orchestrator?background_color=0d1117&border_color=30363d" />
 
 
 </details>
