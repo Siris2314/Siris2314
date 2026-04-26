@@ -52,7 +52,7 @@ No activity tracked
 
 
 #### Currently Listening
-[![Spotify](https://novatorem-orpin-zeta.vercel.app/api/orchestrator)](https://open.spotify.com/)
+<img src="https://novatorem-orpin-zeta.vercel.app/api/orchestrator" />
 
 
 </details>
