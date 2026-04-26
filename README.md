@@ -52,7 +52,12 @@ No activity tracked
 
 
 #### Currently Listening
-<img src="https://novatorem-orpin-zeta.vercel.app/api/orchestrator?background_color=0d1117&border_color=30363d" />
+
+<p align="center">
+  <a href="https://www.last.fm/user/Zamasu67">
+    <img src="https://novatorem-orpin-zeta.vercel.app/api/orchestrator?background_color=0d1117&border_color=30363d" alt="Currently listening" />
+  </a>
+</p>
 
 
 </details>
