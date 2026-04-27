@@ -7,9 +7,6 @@
 
 ### 🧠 Tech Stack
 
-
-#### Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -22,9 +19,9 @@
 
 ### About Me
 
-  - My name is Arihant Tripathi, I am currently a Masters of Science in Engineering Student at UPenn
-  - I am a developer and a Machine Learning Enthusiast
-  - I love to work on Open Source projects 
+  - MSE Data Science @ UPenn focused on applied ML and LLM systems  
+  - Built scalable pipelines and multi-agent AI systems across finance and distributed environments  
+  - Interested in ML infrastructure, generative AI, and building systems that actually get used  
 
 
 ### Currently Learning/Projects Working On 
