@@ -1,6 +1,8 @@
 ## Hi I'm Arihant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arihant-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-tripathi-2374b7191//)[![Mail Badge](https://img.shields.io/badge/-ArihantT-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tarihant2001@gmail.com)[![NPM Badge](https://img.shields.io/badge/-Ari.Dev-F90305?style=flat&labelColor=F90305&logo=npm&logoColor=red)](https://www.npmjs.com/~ari.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arihant-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-tripathi-2374b7191/)
+[![Gmail](https://img.shields.io/badge/Gmail-ArihantT-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarihant2001@gmail.com)
+[![NPM](https://img.shields.io/badge/NPM-Ari.Dev-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ari.dev)
 
 
 #### Most Used Languages/Technologies
