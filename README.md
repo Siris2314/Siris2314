@@ -5,10 +5,18 @@
 [![NPM](https://img.shields.io/badge/NPM-Ari.Dev-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ari.dev)
 
 
-#### Most Used Languages/Technologies
+### 🧠 Tech Stack
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) [![Python Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&labelColor=blue&logo=python&logoColor=F0DB4F)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+#### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
