@@ -8,28 +8,23 @@
 
 ### 🧠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,postgres,aws" />
+</p>
 
 
 ### About Me
 
   - MSE Data Science @ UPenn focused on applied ML and LLM systems  
-  - Built scalable pipelines and multi-agent AI systems across finance and distributed environments  
-  - Interested in ML infrastructure, generative AI, and building systems that actually get used  
+  - Experienced in building scalable ML pipelines and multi-agent AI systems across finance and distributed environments  
+  - Interested in ML infrastructure, generative AI, and impactful data-driven products  
 
 
-### Currently Learning/Projects Working On 
+## Featured Work
 
-   - Released a new Python Project on better YT Summarization using Llama2 and OpenAIWhisper
-   - Working on a Python Package to streamline DCGANs and Diffusion models
-   - Released a new C++ Machine Learning Library, out here: https://github.com/Siris2314/MLPP
+  - Microsoft — Built and evaluated multi-agent RCA systems for distributed infrastructure using AutoGen and telemetry-grounded       prompting  
+  - J.P. Morgan — Developed ontology-driven reasoning systems and LLM workflows for advisor-facing financial platforms  
+  - Research — Co-authored work on domain-adaptive AI detection and benchmarked robustness across frontier LLM datasets  
 
 ### [Personal Website](https://arihanttripathi.netlify.app/)
 
