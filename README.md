@@ -2,13 +2,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arihant-tripathi-2374b7191/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36"/>
   </a>
+  &nbsp;
   <a href="mailto:tarihant2001@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="36"/>
   </a>
+  &nbsp;
   <a href="https://www.npmjs.com/~ari.dev">
-    <img src="https://skillicons.dev/icons?i=npm" height="40"/>
+    <img src="https://skillicons.dev/icons?i=npm" width="36"/>
   </a>
 </p>
 
