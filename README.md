@@ -28,7 +28,7 @@
 
 ### [Personal Website](https://arihanttripathi.netlify.app/)
 
-#### Profile Visits 
+🌐 Portfolio: https://arihanttripathi.netlify.app
 
 ![Visitors](https://komarev.com/ghpvc/?username=Siris2314)
 
