@@ -26,9 +26,10 @@
   - J.P. Morgan — Developed ontology-driven reasoning systems and LLM workflows for advisor-facing financial platforms  
   - Research — Co-authored work on domain-adaptive AI detection and benchmarked robustness across frontier LLM datasets  
 
-### [Personal Website](https://arihanttripathi.netlify.app/)
+
 
 🌐 Portfolio: https://arihanttripathi.netlify.app
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=Siris2314)
 
