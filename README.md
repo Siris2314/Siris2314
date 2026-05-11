@@ -52,9 +52,9 @@ No activity tracked
 
 #### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siris2314&show_icons=true&theme=tokyonight&hide_border=true" />
-
-
+<p align="center">
+  <img src="https://github-readme-stats-one-umber-82.vercel.app/api?username=Siris2314&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
 
 
