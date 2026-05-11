@@ -1,8 +1,16 @@
 ## Hi I'm Arihant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arihant-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-tripathi-2374b7191/)
-[![Gmail](https://img.shields.io/badge/Gmail-ArihantT-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarihant2001@gmail.com)
-[![NPM](https://img.shields.io/badge/NPM-Ari.Dev-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ari.dev)
+<p align="left">
+  <a href="https://www.linkedin.com/in/arihant-tripathi-2374b7191/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:tarihant2001@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/~ari.dev">
+    <img src="https://skillicons.dev/icons?i=npm" height="40"/>
+  </a>
+</p>
 
 
 ### 🧠 Tech Stack
