@@ -13,14 +13,14 @@
 </p>
 
 
-### About Me
+## About Me
 
 - MSE Data Science @ UPenn focused on applied ML and LLM systems  
 - Experienced in building scalable ML pipelines and multi-agent AI systems across finance and distributed environments  
 - Interested in ML infrastructure, generative AI, and impactful data-driven products  
 
 
-### Featured Work
+## Featured Work
 
 - Microsoft — Built and evaluated multi-agent RCA systems for distributed infrastructure using AutoGen and telemetry-grounded prompting  
 - J.P. Morgan — Developed ontology-driven reasoning systems and LLM workflows for advisor-facing financial platforms  
