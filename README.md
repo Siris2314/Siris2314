@@ -2,16 +2,16 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arihant-tripathi-2374b7191/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  <a href="https://www.linkedin.com/in/arihant-tripathi-2374b7191/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28"/>
   </a>
-  
-  <a href="mailto:tarihant2001@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  &nbsp;
+  <a href="mailto:tarihant2001@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
-  
-  <a href="https://huggingface.co/EndLessTime" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="42" />
+  &nbsp;
+  <a href="https://huggingface.co/EndLessTime" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28"/>
   </a>
 </p>
 
