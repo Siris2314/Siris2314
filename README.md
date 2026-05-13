@@ -1,21 +1,9 @@
 ## Hi I'm Arihant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25"/>
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/arihant-tripathi-2374b7191/" style="text-decoration:none;">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/white" height="18" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="mailto:tarihant2001@gmail.com" style="text-decoration:none;">
-    <img align="center" src="https://cdn.simpleicons.org/gmail/white" height="18" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://huggingface.co/EndLessTime" style="text-decoration:none;">
-    <img align="center" src="https://cdn.simpleicons.org/huggingface/white" height="18" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-tripathi-2374b7191/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarihant2001@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/EndLessTime)
 
 
 ### 🧠 Tech Stack
