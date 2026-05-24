@@ -37,20 +37,16 @@
 <br >
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00D9FF&height=140&section=header&text=Arihant%20Tripathi&fontSize=40&fontColor=ffffff"/>
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Siris2314&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00D9FF&height=120&section=header&text=Coding%20Activity&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Siris2314&theme=tokyonight&hide_border=true" />
-</p>
-
-## Coding Activity
+<div align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</div>
 
 #### Github Stats
 
