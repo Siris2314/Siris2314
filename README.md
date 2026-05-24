@@ -41,15 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2021 - To: 24 May 2026
+From: 17 May 2026 - To: 24 May 2026
 
-Total Time: 1,137 hrs 57 mins
-
-JavaScript       495 hrs 45 mins       ██████████▓░░░░░░░░░░░░░░   43.17 %
-Python           350 hrs 40 mins       ███████▓░░░░░░░░░░░░░░░░░   30.54 %
-C                91 hrs 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-C++              55 hrs 59 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-TeX              40 hrs 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Other                          ███████████████▓░░░░░░░░░   62.99 %
 ```
 
 <!--END_SECTION:waka-->
