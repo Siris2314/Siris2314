@@ -40,7 +40,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=zamas231&layout=compact&theme=dark&hide_border=true&custom_title=Coding%20Stats" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=zamas231&layout=compact&theme=dark&hide_border=true&custom_title=Coding%20Stats" 
     alt="WakaTime Stats"
   />
 </p>
