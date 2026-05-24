@@ -36,8 +36,6 @@
 
 <br >
 
-### Coding Stats
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00D9FF&height=120&section=header&text=Coding%20Activity&fontSize=32&fontColor=ffffff&animation=fadeIn" />
