@@ -35,4 +35,4 @@ jobs:
           SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
 
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
