@@ -37,15 +37,9 @@
 <br >
 
 
-#### Coding Stats
+### Coding Stats
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zamas231&layout=compact&theme=dark&hide_border=true)](https://wakatime.com/@zamas231)
 
 #### Github Stats
 
