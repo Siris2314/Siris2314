@@ -10,12 +10,29 @@ permissions:
 
 jobs:
   update-readme:
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update README
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          REPOSITORY: Siris2314/Siris2314
+
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ░▒▓█
+          CODE_LANG: txt
+
+          TIME_RANGE: all_time
+
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+
+          STOP_AT_OTHER: true
